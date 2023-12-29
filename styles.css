@@ -1,0 +1,33 @@
+body {
+  background-color: rebeccapurple;
+  text-align: center;
+}
+h1 {
+  font-size: 3rem;
+  font-family: "Press Start 2P", cursive;
+  color: #fef2bf;
+  margin: 2% 5%;
+}
+.btn {
+  height: 250px;
+  width: 250px;
+  display: inline-block;
+  margin: 2% 2% 2% 2%;
+  border-radius: 5%;
+  border: 10px solid black;
+}
+.red {
+  background-color: red;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+.yellow {
+  background-color: yellow;
+}
+.performEvent {
+  opacity: 0.5;
+}
